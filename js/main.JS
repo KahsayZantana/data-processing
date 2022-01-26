@@ -1,4 +1,4 @@
-//alert('test');
+//alert('test')
 
 
 //https://tinyurl.com/dynamic-html-checker
